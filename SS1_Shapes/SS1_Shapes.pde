@@ -1,7 +1,7 @@
 //Week 1 Short Study ~Chris Avendano          //A title for the drawing
 
 
-int zer = 0;        //At least 3 different types of primitives
+int zer = 0;        //At least 3 different types of primitives  //ADD different datatypes, make the shapes draw something, 3 different shapes too
 int min = 4;
 int max = 10;
 
